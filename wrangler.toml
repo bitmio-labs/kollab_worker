@@ -1,0 +1,7 @@
+name = "kollab"
+type = "rust"
+
+account_id = "6ca9c0551930553a47948e14994355a4"
+workers_dev = true
+route = ""
+zone_id = ""
